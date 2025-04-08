@@ -1,0 +1,15 @@
+{
+  "summary": "Metropolitan Roofing Systems is a well-regarded provider of commercial roofing services in the tri-state area, boasting a high customer satisfaction rate and a 4.5-star rating. As a GAF Certified Contractor, they demonstrate a commitment to quality and expertise in roofing installations. However, the lack of information on their years in business suggests a potential area for further inquiry to understand their experience and stability in the market.",
+  "selling_points": [
+    "High customer satisfaction and a 4.5-star rating indicate a reputable and reliable contractor.",
+    "GAF certification highlights their commitment to quality and professional standards.",
+    "Specialization in commercial roofing aligns with large-scale product opportunities."
+  ],
+  "recommended_products": [
+    "GAF roofing materials and systems",
+    "Commercial grade waterproofing solutions",
+    "Energy-efficient roofing options"
+  ],
+  "engagement_strategy": "Approach Metropolitan Roofing Systems by emphasizing product quality and the alignment of our offerings with their GAF certification. Highlight how our products can enhance their project outcomes and customer satisfaction. Discussing case studies or testimonials from similar commercial projects may help in establishing credibility and demonstrating the value of our products.",
+  "contact_priority": 4
+}

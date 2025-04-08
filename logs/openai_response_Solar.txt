@@ -1,0 +1,15 @@
+{
+  "summary": "Solar is a small-sized GAF Certified Contractor with an unknown rating and unspecified years in business. The lack of detailed information about their services and certifications suggests they may be relatively new or not widely recognized in the industry yet. However, being GAF certified indicates a commitment to quality and professional standards in roofing installations.",
+  "selling_points": [
+    "Leverage the GAF certification to introduce high-quality GAF products that align with their standards.",
+    "Focus on the benefits of becoming a more diversified contractor with additional certifications and training.",
+    "Highlight the potential for business growth through expanded service offerings and market reach."
+  ],
+  "recommended_products": [
+    "GAF Timberline HD Shingles for residential projects",
+    "GAF Master Flow Ventilation products",
+    "GAF Lifetime Roofing System components"
+  ],
+  "engagement_strategy": "Approach Solar by acknowledging their GAF certification and emphasizing how your products align with GAF's high standards. Offer information and incentives for products that complement their existing certifications, such as GAF shingles and roofing systems. Discuss the benefits of additional training and certification opportunities to help them expand their market presence and service offerings.",
+  "contact_priority": 3
+}

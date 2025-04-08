@@ -1,0 +1,19 @@
+{
+  "data": [],
+  "metadata": {
+    "scrape_date": "2025-04-08T12:25:01.102023",
+    "source": "GAF",
+    "zip_code": "10013",
+    "distance": 25,
+    "total_results": 0,
+    "pages_scraped": 1
+  },
+  "statistics": {
+    "total_contractors": 0,
+    "scrape_duration_seconds": 23.12,
+    "request_count": 1,
+    "success_count": 0,
+    "error_count": 0,
+    "captcha_count": 0
+  }
+}

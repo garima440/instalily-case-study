@@ -1,0 +1,15 @@
+{
+  "summary": "Residential Warranties is a small-sized contractor certified by GAF, indicating a focus on quality and reliability in roofing installations. However, details about their years in business, specific services, and additional certifications are not available, which may suggest a relatively new or niche operation.",
+  "selling_points": [
+    "Leverage their GAF certification to discuss high-quality GAF products that align with their standards.",
+    "Highlight product warranties and support services that can help them build trust with homeowners.",
+    "Offer competitive pricing or financing options to appeal to a potentially budget-conscious small contractor."
+  ],
+  "recommended_products": [
+    "GAF Timberline HDZ Shingles, which are popular for their durability and warranty.",
+    "Roof deck protection and leak barriers to complement their installation services.",
+    "Ventilation products to enhance their roofing system offerings."
+  ],
+  "engagement_strategy": "Approach Residential Warranties by acknowledging their GAF certification and emphasizing how your products align with GAF's standards. Focus on building a relationship based on trust and support, offering detailed product information and testimonials from other GAF certified contractors. Be prepared to discuss flexible pricing or financing plans to accommodate their potential budget constraints.",
+  "contact_priority": 3
+}

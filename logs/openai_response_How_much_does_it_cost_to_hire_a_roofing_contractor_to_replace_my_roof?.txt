@@ -1,0 +1,15 @@
+{
+  "summary": "This contractor is a GAF Certified Contractor, which suggests a focus on quality and reliability in roofing services. However, there is limited information on their years in business, size, and specific services offered. The lack of detailed certifications and service descriptions indicates that they might be relatively new or small in scale.",
+  "selling_points": [
+    "Leverage the GAF certification to discuss high-quality GAF products that align with their standards.",
+    "Highlight the benefits of expanding their product offerings to attract more diverse projects.",
+    "Offer training and support to help them capitalize on their GAF certification and possibly expand their certifications."
+  ],
+  "recommended_products": [
+    "GAF Timberline HDZ Shingles",
+    "GAF Deck-Armor Roof Deck Protection",
+    "GAF Weather Watch Leak Barrier"
+  ],
+  "engagement_strategy": "Approach the contractor with a focus on their GAF certification, emphasizing how your products align with GAF standards. Offer insights into market trends and how expanding their product range and certifications can attract more business. Provide support and training materials that can help them leverage their GAF certification more effectively.",
+  "contact_priority": 3
+}

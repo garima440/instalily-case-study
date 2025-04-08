@@ -1,0 +1,15 @@
+{
+  "summary": "Brooklyn Heights Roofing is a specialized contractor with a focus on brownstone roofing, flat roof systems, and historical roof restorations. They are well-versed in NYC building codes and regulations, which is crucial for compliance in their projects. Their high rating of 4.7 and certifications such as GAF Master Elite Contractor and NRCA membership underscore their credibility and expertise in the roofing industry.",
+  "selling_points": [
+    "Their specialization in brownstone and historical roof restorations presents an opportunity to offer specialized high-quality materials.",
+    "Expertise in NYC building codes makes them a valuable partner for projects requiring stringent compliance.",
+    "High customer satisfaction rating indicates reliability and quality service, aligning with premium product offerings."
+  ],
+  "recommended_products": [
+    "GAF roofing materials, given their GAF Master Elite Contractor status.",
+    "Eco-friendly and sustainable roofing options suitable for historical restorations.",
+    "Advanced waterproofing solutions for flat roof systems."
+  ],
+  "engagement_strategy": "Approach Brooklyn Heights Roofing by acknowledging their high standards and expertise in specialized roofing systems. Highlight how your products align with their need for compliance and quality. Offer detailed product information and case studies that demonstrate success in similar projects. Discuss training and support options that can enhance their offerings.",
+  "contact_priority": 4
+}

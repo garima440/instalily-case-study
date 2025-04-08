@@ -1,0 +1,240 @@
+{
+  "data": [
+    {
+      "name": "Superior Roofing Solutions",
+      "rating": 4.8,
+      "address": "123 Main St, New York, NY 10013",
+      "phone": "212-555-1234",
+      "certifications": ["GAF Master Elite Contractor", "Energy Star Certified"],
+      "description": "Superior Roofing Solutions has been providing top-quality roofing services in the New York area for over 15 years. We specialize in residential and commercial roofing installations, repairs, and maintenance.",
+      "website": "https://superiorroofingnj.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Precision Roofing & Construction",
+      "rating": 5.0,
+      "address": "456 Broadway, New York, NY 10013",
+      "phone": "212-555-2345",
+      "certifications": ["GAF Certified Contractor", "OSHA Certified"],
+      "description": "Precision Roofing & Construction delivers exceptional roofing services with attention to detail and quality craftsmanship. Family-owned and operated since 2005.",
+      "website": "https://precisionroofingnyc.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Liberty Roofing Contractors",
+      "rating": 4.7,
+      "address": "789 Liberty St, Jersey City, NJ 07302",
+      "phone": "201-555-3456",
+      "certifications": ["GAF Master Elite Contractor", "CertainTeed SELECT ShingleMaster"],
+      "description": "Liberty Roofing Contractors is a full-service roofing company serving the NYC metro area. We handle everything from new installations to emergency repairs and routine maintenance.",
+      "website": "https://libertyroofing.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Metropolitan Roofing Systems",
+      "rating": 4.5,
+      "address": "321 Hudson St, Hoboken, NJ 07030",
+      "phone": "201-555-4567",
+      "certifications": ["GAF Certified Contractor"],
+      "description": "Metropolitan Roofing Systems provides residential and commercial roofing services throughout the tri-state area. Our experienced team ensures quality installation and customer satisfaction.",
+      "website": "https://metroofsystems.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Skyline Roofing & Waterproofing",
+      "rating": 4.9,
+      "address": "555 5th Ave, New York, NY 10017",
+      "phone": "212-555-5678",
+      "certifications": ["GAF Master Elite Contractor", "NRCA Member"],
+      "description": "Skyline Roofing & Waterproofing specializes in flat roof installations, repairs, and waterproofing services for commercial and residential properties in NYC.",
+      "website": "https://skylineroofingnyc.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Guardian Roofing Services",
+      "rating": 4.6,
+      "address": "222 West St, Brooklyn, NY 11222",
+      "phone": "718-555-6789",
+      "certifications": ["GAF Certified Contractor", "EPA Lead-Safe Certified"],
+      "description": "Guardian Roofing Services is committed to providing high-quality roofing solutions at competitive prices. We serve all five boroughs of NYC and surrounding areas.",
+      "website": "https://guardianroofingnyc.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Empire State Roofing",
+      "rating": 4.7,
+      "address": "888 Empire Ave, New York, NY 10001",
+      "phone": "212-555-7890",
+      "certifications": ["GAF Master Elite Contractor", "BBB Accredited Business"],
+      "description": "Empire State Roofing has been serving the greater New York metropolitan area for over 25 years. We specialize in all types of roofing systems for residential and commercial properties.",
+      "website": "https://empirestateroof.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Gotham Roofing Specialists",
+      "rating": 4.8,
+      "address": "444 Gotham Blvd, New York, NY 10014",
+      "phone": "212-555-8901",
+      "certifications": ["GAF Certified Contractor", "IKO Shield Pro Certified"],
+      "description": "Gotham Roofing Specialists offers premium roofing services with a focus on durability and energy efficiency. Our team has expertise in various roofing materials including asphalt, metal, and slate.",
+      "website": "https://gothamroofing.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Triboro Roofing Company",
+      "rating": 4.5,
+      "address": "777 Queens Blvd, Queens, NY 11101",
+      "phone": "718-555-9012",
+      "certifications": ["GAF Certified Contractor"],
+      "description": "Triboro Roofing Company serves residential and commercial clients across Manhattan, Brooklyn, Queens, and beyond. We offer comprehensive roofing solutions tailored to your specific needs.",
+      "website": "https://triboroofroof.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Urban Roofing & Sheet Metal",
+      "rating": 4.9,
+      "address": "333 Canal St, New York, NY 10013",
+      "phone": "212-555-0123",
+      "certifications": ["GAF Master Elite Contractor", "Firestone Certified Contractor"],
+      "description": "Urban Roofing & Sheet Metal specializes in custom metal roofing, architectural sheet metal, and specialty roofing systems for historic buildings and modern structures in NYC.",
+      "website": "https://urbanroofingnyc.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Reliable Roofing & Construction",
+      "rating": 4.7,
+      "address": "111 Reliable Way, Jersey City, NJ 07302",
+      "phone": "201-555-1234",
+      "certifications": ["GAF Certified Contractor", "Owens Corning Preferred Contractor"],
+      "description": "Reliable Roofing & Construction provides quality roofing services with exceptional customer service. We work with homeowners, property managers, and general contractors.",
+      "website": "https://reliableroofingco.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Apex Roofing Systems",
+      "rating": 4.8,
+      "address": "567 Highland Ave, Hoboken, NJ 07030",
+      "phone": "201-555-2345",
+      "certifications": ["GAF Master Elite Contractor", "CertainTeed Gold Star Contractor"],
+      "description": "Apex Roofing Systems is a premier roofing contractor serving the NYC metro area. We specialize in high-end residential and commercial roofing projects.",
+      "website": "https://apexroofingsystems.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Manhattan Roofing Experts",
+      "rating": 4.6,
+      "address": "789 Madison Ave, New York, NY 10022",
+      "phone": "212-555-3456",
+      "certifications": ["GAF Certified Contractor"],
+      "description": "Manhattan Roofing Experts provides comprehensive roofing services for residential and commercial properties throughout NYC. We specialize in flat roofs, green roofs, and historic building restoration.",
+      "website": "https://manhattanroofingexperts.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Brooklyn Heights Roofing",
+      "rating": 4.7,
+      "address": "123 Heights Blvd, Brooklyn, NY 11201",
+      "phone": "718-555-4567",
+      "certifications": ["GAF Master Elite Contractor", "NRCA Member"],
+      "description": "Brooklyn Heights Roofing specializes in brownstone roofing, flat roof systems, and historical roof restorations. Our team has extensive experience with NYC building codes and regulations.",
+      "website": "https://brooklynheightsroofing.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "First Class Roofing",
+      "rating": 4.9,
+      "address": "456 First Ave, New York, NY 10016",
+      "phone": "212-555-5678",
+      "certifications": ["GAF Certified Contractor", "OSHA Certified"],
+      "description": "First Class Roofing delivers superior craftsmanship and exceptional service for all your roofing needs. We serve residential and commercial clients throughout the five boroughs.",
+      "website": "https://firstclassroofingny.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Hudson Valley Roofing",
+      "rating": 4.5,
+      "address": "789 Valley Rd, Yonkers, NY 10701",
+      "phone": "914-555-6789",
+      "certifications": ["GAF Certified Contractor"],
+      "description": "Hudson Valley Roofing serves clients in NYC, Westchester, and the Hudson Valley. We offer a full range of roofing services including installation, repair, and maintenance.",
+      "website": "https://hudsonvalleyroofing.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "All Seasons Roofing & Siding",
+      "rating": 4.8,
+      "address": "222 Seasons Ave, Newark, NJ 07102",
+      "phone": "973-555-7890",
+      "certifications": ["GAF Master Elite Contractor", "James Hardie Elite Preferred"],
+      "description": "All Seasons Roofing & Siding provides comprehensive exterior solutions including roofing, siding, windows, and gutters. We serve the entire NYC metropolitan area.",
+      "website": "https://allseasonsroofing.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Summit Roofing Contractors",
+      "rating": 4.7,
+      "address": "333 Summit St, Jersey City, NJ 07307",
+      "phone": "201-555-8901",
+      "certifications": ["GAF Certified Contractor", "BBB Accredited Business"],
+      "description": "Summit Roofing Contractors specializes in commercial and residential roofing services. Our team of experienced professionals is dedicated to quality workmanship and customer satisfaction.",
+      "website": "https://summitroofingcontractors.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "New York City Roofing Co.",
+      "rating": 4.9,
+      "address": "555 NYC Plaza, New York, NY 10007",
+      "phone": "212-555-9012",
+      "certifications": ["GAF Master Elite Contractor", "Duro-Last Certified Contractor"],
+      "description": "New York City Roofing Co. is a full-service roofing company with over 30 years of experience serving NYC's diverse roofing needs. We specialize in flat roofs, traditional slopes, and green roofing solutions.",
+      "website": "https://nycroofingco.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    },
+    {
+      "name": "Premier Roofing Services",
+      "rating": 4.6,
+      "address": "444 Grand St, Hoboken, NJ 07030",
+      "phone": "201-555-0123",
+      "certifications": ["GAF Certified Contractor", "Velux Certified Installer"],
+      "description": "Premier Roofing Services offers high-quality roofing solutions for residential and commercial properties. We pride ourselves on attention to detail and exceptional customer service.",
+      "website": "https://premierroofingservices.com",
+      "source": "GAF",
+      "zip_code": "10013"
+    }
+  ],
+  "metadata": {
+    "scrape_date": "2025-04-08T12:00:00.000Z",
+    "source": "GAF",
+    "zip_code": "10013",
+    "distance": 25,
+    "total_results": 20,
+    "pages_scraped": 1
+  },
+  "statistics": {
+    "total_contractors": 20,
+    "scrape_duration_seconds": 10.25,
+    "request_count": 1,
+    "success_count": 1,
+    "error_count": 0,
+    "captcha_count": 0
+  }
+}

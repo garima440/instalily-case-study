@@ -1,0 +1,15 @@
+{
+  "summary": "Metal is a small-sized GAF Certified Contractor with an unknown rating and unspecified years in business. The lack of detailed information about their services and certifications suggests a focus on a niche or specialized market, potentially leveraging their GAF certification.",
+  "selling_points": [
+    "Leverage the GAF certification to discuss high-quality GAF products that align with their certification standards.",
+    "Highlight the benefits of partnering with a distributor that understands the needs of small, specialized contractors.",
+    "Offer tailored support and training opportunities to help them expand their service offerings."
+  ],
+  "recommended_products": [
+    "GAF Timberline HDZ Shingles",
+    "GAF Roofing System Components",
+    "GAF Advanced Protection Technology products"
+  ],
+  "engagement_strategy": "Approach Metal by acknowledging their GAF certification and emphasizing how your products align with GAF's high standards. Offer detailed product information and case studies that demonstrate the success of similar small contractors using your products. Discuss training and support programs that can help them leverage their GAF certification more effectively.",
+  "contact_priority": 3
+}

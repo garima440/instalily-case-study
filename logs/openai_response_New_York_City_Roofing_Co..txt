@@ -1,0 +1,15 @@
+{
+  "summary": "New York City Roofing Co. is a highly rated, full-service roofing contractor with three decades of experience in New York City. They specialize in flat roofs, traditional sloped roofs, and environmentally friendly green roofing solutions. Their certifications as a GAF Master Elite Contractor and a Duro-Last Certified Contractor underscore their commitment to quality and expertise in the roofing industry.",
+  "selling_points": [
+    "Leverage their high customer satisfaction rating of 4.9 to reinforce trust and quality service.",
+    "Highlight compatibility of our products with their specialized services in flat and green roofing solutions.",
+    "Emphasize our product warranties and support, aligning with their commitment to quality as a GAF Master Elite and Duro-Last certified contractor."
+  ],
+  "recommended_products": [
+    "GAF roofing materials and systems, given their GAF Master Elite status.",
+    "Eco-friendly roofing materials compatible with green roofing projects.",
+    "Advanced flat roofing solutions that align with their specialization in flat roofs."
+  ],
+  "engagement_strategy": "Approach New York City Roofing Co. by acknowledging their excellent reputation and long-standing presence in the NYC roofing market. Focus discussions on how our product lines can complement their specialized roofing services, particularly in green and flat roofing. Offer detailed product demonstrations and case studies that highlight the durability and cost-effectiveness of our solutions, aligning with their commitment to quality and innovation.",
+  "contact_priority": 5
+}

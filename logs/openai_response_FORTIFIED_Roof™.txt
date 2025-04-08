@@ -1,0 +1,15 @@
+{
+  "summary": "FORTIFIED Roof™ is a GAF Certified Contractor, indicating a specialization in GAF products and standards, though other specific details such as their years in business and full range of services are not provided. The contractor is estimated to be small in size, which might suggest a more localized or specialized market focus.",
+  "selling_points": [
+    "Leverage their GAF certification to introduce GAF's latest product innovations and warranty options.",
+    "Highlight the benefits of using a distributor that can provide consistent supply and competitive pricing for GAF products.",
+    "Offer training and support services to help them stay updated with the latest roofing techniques and products."
+  ],
+  "recommended_products": [
+    "GAF Timberline HDZ Shingles",
+    "GAF Deck-Armor Roof Deck Protection",
+    "GAF Weather Watch Leak Barrier"
+  ],
+  "engagement_strategy": "Approach FORTIFIED Roof™ by acknowledging their GAF certification and expressing a desire to support them in maintaining the high standards required for this certification. Offer detailed product information and updates on GAF materials, emphasizing how these can enhance their service offerings. Discuss training opportunities and extended warranty options that could benefit their business and appeal to their clientele.",
+  "contact_priority": 3
+}

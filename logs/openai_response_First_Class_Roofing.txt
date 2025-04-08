@@ -1,0 +1,15 @@
+{
+  "summary": "First Class Roofing is a highly rated contractor known for superior craftsmanship and exceptional service, serving both residential and commercial clients in the five boroughs. Despite the lack of information on their years in business and specific services, their GAF certification and OSHA certification indicate a commitment to quality and safety standards.",
+  "selling_points": [
+    "High customer satisfaction with a 4.9 rating, indicating reliability and quality service.",
+    "GAF Certified Contractor status suggests they value high-quality materials and are recognized for professional installation.",
+    "Serves both residential and commercial markets, providing a broad customer base and diverse needs."
+  ],
+  "recommended_products": [
+    "GAF roofing materials to align with their certification and ensure product compatibility.",
+    "Safety equipment and training services to complement their OSHA certification and focus on safety.",
+    "Energy-efficient roofing solutions to appeal to both residential and commercial clients looking to reduce energy costs."
+  ],
+  "engagement_strategy": "Approach First Class Roofing by acknowledging their high customer satisfaction and certifications. Highlight how your products align with their commitment to quality and safety. Offer tailored solutions that cater to both their residential and commercial projects, emphasizing energy efficiency and cost-effectiveness. Establish a consultative relationship by understanding their specific needs and offering products that enhance their service offerings.",
+  "contact_priority": 5
+}

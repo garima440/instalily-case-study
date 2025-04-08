@@ -1,0 +1,17 @@
+{
+  "summary": "Cookie List is a GAF Certified Contractor, which indicates a specialization in GAF products and a commitment to quality installation. However, the lack of information on their years in business, size, and specific services suggests they may be relatively new or small in scale. This presents an opportunity to nurture a growing business by providing tailored support and resources.",
+  "selling_points": [
+    "Leverage their GAF certification to introduce GAF's latest products and warranties.",
+    "Offer training and support to help them expand their service offerings.",
+    "Discuss the benefits of becoming a full-service contractor to increase their market reach.",
+    "Highlight promotional materials and support programs available exclusively to GAF certified contractors."
+  ],
+  "recommended_products": [
+    "GAF Timberline HDZ Shingles",
+    "GAF Deck-Armor Roof Deck Protection",
+    "GAF Weather Watch Leak Barrier",
+    "GAF Pro-Start Starter Strip Shingles"
+  ],
+  "engagement_strategy": "Approach Cookie List with a focus on their GAF certification, emphasizing how your products align with GAF standards and can enhance their installations. Offer resources and training that can help them grow and possibly expand their service offerings. Build a relationship based on support and growth, positioning your products as part of their success story.",
+  "contact_priority": 3
+}

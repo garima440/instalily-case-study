@@ -1,0 +1,15 @@
+{
+  "summary": "Empire State Roofing is a well-established contractor with over 25 years of experience in the New York metropolitan area, specializing in both residential and commercial roofing systems. They boast a high rating of 4.7 and are recognized as a GAF Master Elite Contractor and a BBB Accredited Business, indicating a strong reputation for quality and reliability in the roofing industry.",
+  "selling_points": [
+    "Leverage their high customer satisfaction rating to introduce premium products.",
+    "Highlight the benefits of new roofing technologies that align with their status as a GAF Master Elite Contractor.",
+    "Emphasize product durability and warranty offers to appeal to their commitment to quality."
+  ],
+  "recommended_products": [
+    "GAF Timberline HDZ Shingles for residential projects",
+    "GAF EverGuard TPO for commercial flat roofs",
+    "Roofing underlayment and insulation materials to complement shingle installations"
+  ],
+  "engagement_strategy": "Approach Empire State Roofing by acknowledging their long-standing reputation and expertise in the roofing industry. Focus discussions on how your products can enhance their project outcomes and customer satisfaction. Offer detailed product demonstrations and case studies that showcase the performance and reliability of your offerings. Consider arranging a training session or seminar specifically tailored to the latest roofing techniques and materials.",
+  "contact_priority": 4
+}

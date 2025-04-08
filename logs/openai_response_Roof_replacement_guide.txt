@@ -1,0 +1,15 @@
+{
+  "summary": "Roof Replacement Guide is a small-sized contractor that is GAF Certified. While specific details about their years in business, range of services, and additional certifications are unknown, their GAF certification indicates a focus on quality and reliability in roofing installations.",
+  "selling_points": [
+    "Leverage the GAF certification to discuss high-quality GAF products that meet their standards.",
+    "Highlight the benefits of expanding their product offerings to differentiate from competitors.",
+    "Offer training and support to help them capitalize on the latest roofing technologies and installation techniques."
+  ],
+  "recommended_products": [
+    "GAF Timberline HDZ Shingles",
+    "GAF Deck-Armor Roof Deck Protection",
+    "GAF Weather Watch Leak Barrier"
+  ],
+  "engagement_strategy": "Approach Roof Replacement Guide by acknowledging their GAF certification and emphasizing how your products align with GAF's high standards. Offer detailed product demonstrations and case studies that showcase the durability and cost-effectiveness of your offerings. Discuss training opportunities and support services that can help them enhance their installation quality and customer satisfaction.",
+  "contact_priority": 3
+}

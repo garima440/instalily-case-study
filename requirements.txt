@@ -1,0 +1,11 @@
+playwright
+openai
+pydantic
+aiohttp
+pandas
+tqdm
+python-dotenv
+fastapi
+uvicorn
+tiktoken
+tenacity

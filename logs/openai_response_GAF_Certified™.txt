@@ -1,0 +1,15 @@
+{
+  "summary": "GAF Certified™ is a small-sized contractor recognized as a GAF Certified Contractor, although specific details about their years in business, range of services, and additional certifications are not provided. This designation suggests a focus on quality and reliability in roofing, potentially leveraging GAF's brand and training resources.",
+  "selling_points": [
+    "Leverage the GAF Certified status to discuss GAF-specific products that can enhance their offerings.",
+    "Highlight the benefits of using GAF's advanced roofing materials and systems to potentially expand their service capabilities.",
+    "Offer training and support to help them stay updated with the latest GAF products and installation techniques."
+  ],
+  "recommended_products": [
+    "GAF Timberline HDZ Shingles for high-performance roofing",
+    "GAF Deck-Armor roof deck protection to offer superior breathability and moisture protection",
+    "GAF Weather Watch leak barrier products to enhance their roofing system's quality"
+  ],
+  "engagement_strategy": "Approach GAF Certified™ by acknowledging their status as a GAF Certified Contractor and emphasizing how your products align with the high standards required by GAF. Offer detailed product demonstrations and case studies that showcase the benefits and durability of GAF products. Discuss training opportunities and support services that can help them utilize GAF products more effectively and possibly expand their business scope.",
+  "contact_priority": 3
+}

@@ -1,0 +1,15 @@
+{
+  "summary": "Apex Roofing Systems is a highly rated roofing contractor specializing in high-end residential and commercial projects in the NYC metro area. With prestigious certifications such as GAF Master Elite and CertainTeed Gold Star, they demonstrate a commitment to quality and expertise in the roofing industry. The absence of information on their years in business suggests they might be relatively new or have not disclosed this information, but their estimated medium size indicates a stable operation.",
+  "selling_points": [
+    "Leverage their high customer satisfaction rating (4.8) to reinforce product quality and service excellence.",
+    "Highlight compatibility of our premium products with their high-end project requirements.",
+    "Emphasize our products' certifications that align with their commitment to quality, enhancing their prestigious project outcomes."
+  ],
+  "recommended_products": [
+    "GAF Timberline HD Shingles for residential projects",
+    "CertainTeed Flintlastic roofing membrane for commercial applications",
+    "Eco-friendly and energy-efficient roofing options to appeal to modern, high-end clients"
+  ],
+  "engagement_strategy": "Approach Apex Roofing Systems by acknowledging their high standards and prestigious certifications. Offer detailed product demonstrations and case studies that align with their high-end market focus. Discuss how our products can add value to their projects through durability, aesthetics, and performance. Arrange a personalized meeting to explore their specific needs and how our solutions can meet those needs.",
+  "contact_priority": 5
+}

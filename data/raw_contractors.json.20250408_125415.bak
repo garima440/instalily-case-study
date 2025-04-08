@@ -1,0 +1,14 @@
+{
+  "data": [],
+  "metadata": {
+    "error": "Failed to navigate to search page"
+  },
+  "statistics": {
+    "total_contractors": 0,
+    "scrape_duration_seconds": null,
+    "request_count": 1,
+    "success_count": 0,
+    "error_count": 0,
+    "captcha_count": 0
+  }
+}

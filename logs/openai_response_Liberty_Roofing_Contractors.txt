@@ -1,0 +1,15 @@
+{
+  "summary": "Liberty Roofing Contractors is a well-regarded full-service roofing company operating in the NYC metro area. With a high rating of 4.7, they specialize in new installations, emergency repairs, and routine maintenance. Their certifications as a GAF Master Elite Contractor and a CertainTeed SELECT ShingleMaster highlight their commitment to quality and expertise in roofing solutions.",
+  "selling_points": [
+    "High customer satisfaction with a 4.7 rating, indicating reliability and quality service.",
+    "Advanced certifications from GAF and CertainTeed, suggesting a preference for high-quality products and established brands.",
+    "Full-service capabilities from installations to repairs, indicating a broad need for diverse roofing materials and technologies."
+  ],
+  "recommended_products": [
+    "GAF Timberline HDZ Shingles, aligning with their GAF Master Elite status.",
+    "CertainTeed Landmark Pro Shingles, to complement their CertainTeed certification.",
+    "Emergency repair kits and maintenance supplies, catering to their service offerings."
+  ],
+  "engagement_strategy": "Approach Liberty Roofing Contractors by acknowledging their high customer rating and certifications, which reflect their commitment to quality. Highlight how our products align with their high standards, especially those from GAF and CertainTeed. Discuss how our range can support their full spectrum of services from new installations to repairs. Offer training and updates on the latest products to help them maintain their competitive edge.",
+  "contact_priority": 4
+}

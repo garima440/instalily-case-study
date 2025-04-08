@@ -1,0 +1,16 @@
+{
+  "summary": "All Seasons Roofing & Siding is a well-regarded contractor in the NYC metropolitan area, specializing in a range of exterior solutions including roofing, siding, windows, and gutters. With a high rating of 4.8 and prestigious certifications such as GAF Master Elite and James Hardie Elite Preferred, they demonstrate a commitment to quality and expertise in their field. The absence of specific details on their years in business and services suggests a focus on their core competencies.",
+  "selling_points": [
+    "Leverage their high customer satisfaction rating to introduce premium, high-quality products.",
+    "Highlight compatibility of our products with GAF and James Hardie specifications to align with their certifications.",
+    "Emphasize product durability and warranty offers to appeal to their commitment to quality."
+  ],
+  "recommended_products": [
+    "GAF Timberline HDZ Shingles",
+    "James Hardie Fiber Cement Siding",
+    "High-performance gutter systems",
+    "Energy-efficient window solutions"
+  ],
+  "engagement_strategy": "Approach All Seasons Roofing & Siding by acknowledging their high standards and certifications. Present products that align with the quality and specifications of GAF and James Hardie, ensuring that our offerings complement their existing services. Focus on how our products can enhance their project outcomes and customer satisfaction, backed by strong warranties and support.",
+  "contact_priority": 4
+}

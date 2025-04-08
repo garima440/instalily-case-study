@@ -1,0 +1,15 @@
+{
+  "summary": "Manhattan Roofing Experts is a well-regarded contractor specializing in roofing services for both residential and commercial properties in NYC. With a focus on flat roofs, green roofs, and the restoration of historic buildings, they leverage their expertise to cater to a diverse range of roofing needs. Their high rating of 4.6 and status as a GAF Certified Contractor underscore their commitment to quality and professional excellence.",
+  "selling_points": [
+    "Leverage their high customer satisfaction rating to build trust and credibility.",
+    "Highlight the benefits of our latest green roofing materials, aligning with their specialization in green roofs.",
+    "Emphasize product durability and warranty offers, appealing to their focus on historic building restoration."
+  ],
+  "recommended_products": [
+    "GAF Timberline HDZ Shingles for high-performance in residential roofing.",
+    "Eco-friendly green roofing solutions that align with their sustainability projects.",
+    "Specialized flat roof materials like PVC or TPO membranes."
+  ],
+  "engagement_strategy": "Approach Manhattan Roofing Experts by acknowledging their strong reputation and specialized services in NYC. Focus discussions on how our products can enhance their green and flat roof projects, and how our warranties can add value to their restoration of historic buildings. Offer detailed product demonstrations and case studies that showcase the effectiveness and reliability of our offerings.",
+  "contact_priority": 4
+}

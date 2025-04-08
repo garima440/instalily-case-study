@@ -1,0 +1,15 @@
+{
+  "summary": "Urban Roofing & Sheet Metal is a highly rated contractor specializing in custom metal roofing and architectural sheet metal, with a focus on both historic buildings and modern structures in NYC. They are recognized as a GAF Master Elite Contractor and a Firestone Certified Contractor, indicating a high level of expertise and quality in their services. The absence of information on their years in business suggests they might be relatively new or established but without widely known history, yet they have managed to secure top certifications and a high customer rating.",
+  "selling_points": [
+    "High customer satisfaction with a 4.9 rating, indicating reliability and quality service.",
+    "Specialization in both historic and modern structures, which could benefit from our diverse product offerings.",
+    "Top-tier certifications from GAF and Firestone, which align with our high-quality roofing materials."
+  ],
+  "recommended_products": [
+    "GAF roofing systems, to align with their Master Elite status.",
+    "Firestone roofing products, leveraging their certification.",
+    "Custom sheet metal solutions, tailored for architectural uniqueness."
+  ],
+  "engagement_strategy": "Approach Urban Roofing & Sheet Metal by emphasizing our range of high-quality products that align with their certifications and specialties. Highlight how our products can enhance their projects on historic and modern buildings, focusing on durability and aesthetic appeal. Offer training and support to help them maintain their elite status and possibly expand their service offerings.",
+  "contact_priority": 5
+}
